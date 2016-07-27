@@ -1,0 +1,39 @@
+/*
+
+Theme Name: Orane - Evolutionary WordPress Theme
+
+Theme URI: http://gj-designs.in/orane/dark_orange/wide_layout/
+
+Description: Orane is a multipurpose WordPress theme with tons of features and its highly customizable. Orane comes with Slider Revolution and Visual Composer with tons of custom modules along with built-in modules. Orane supports woocommerce, bbpress, buddypress, qtranslate, WPML, Contact Form 7, and much more.
+
+Version: 1.5.1
+
+Author: Gj Designs & Redhawk Studio
+
+Author URI: http://www.redhawk-studio.com
+
+Tags: translation-ready, left-sidebar, right-sidebar, responsive-layout, post-formats, theme-options, custom-menu, custom-header, featured-images, sticky-post
+
+License: Split License
+
+License URI: https://help.market.envato.com/hc/en-us/articles/202501064
+
+Text Domain: orane
+
+Details URI: http://redhawk-studio.com/themes/updates/Orane-changelog.html
+
+*/
+
+/*importing other css files for child-theme compatibility*/
+
+@import url("css/bootstrap.css");
+@import url("css/animate.min.css");
+@import url("css/magnific-popup.css");
+@import url("rs-plugin/css/settings.css");
+@import url("rs-plugin/css/settings.css");
+@import url("http://fonts.googleapis.com/css?family=Oswald:400,300,700");
+@import url("http://fonts.googleapis.com/css?family=Lato:300,400,700");
+@import url("fonts/font-awesome/css/font-awesome.min.css");
+@import url("css/style.css");
+@import url("css/overrules.css");
+
