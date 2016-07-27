@@ -2,6 +2,6 @@
 A website for eBiz Technologies ltd.
 
 #Platform
-Language- PHP
+Language- PHP,
 CMS-      Wordpress
 
